@@ -20,7 +20,9 @@
     <p>Also You Can Run it on <b>Windows 11</b></p>  
   </div>
   <br>
-  <img src="https://github.com/shervinbdndev/CPUStatusChart/blob/master/Preview/windows11.png" width="750" align="center" />
+  <div align="center">
+    <img src="https://github.com/shervinbdndev/CPUStatusChart/blob/master/Preview/windows11.png" width="750"/>
+  </div>
 </p>
 
 <br><br>
