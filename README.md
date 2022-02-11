@@ -27,7 +27,6 @@
 
 <br><br>
 ## Packages And Libraries Used In Application Development
-<br>
 * <b>python</b>
 * <b>builtins</b>
 * <b>typing</b>
