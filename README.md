@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://github.com/shervinbdndev/CPUStatusChart/blob/master/Preview/preview%403x.png" width="900" /> 
   <br>
-  <img src="https://github.com/shervinbdndev/CPUStatusChart/blob/master/Preview/windows11.png" width="700" />
+  <img src="https://github.com/shervinbdndev/CPUStatusChart/blob/master/Preview/windows11.png" width="750" />
 </p>
 
 
