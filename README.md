@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/ariaramin/Crypto">
+  <a href="https://github.com/shervinbdndev/CPUStatusChart">
     <img src="https://github.com/shervinbdndev/CPUStatusChart/blob/master/Preview/logo%403x.png" alt="Logo" width="200">
   </a>
 
