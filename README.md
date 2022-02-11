@@ -21,8 +21,8 @@
 
 ## Packages And Libraries Used In Application Development
 <br><br>
-*python*
-*builtins*
-*typing*
-*psutil*
-*matplotlib*
+*python
+*builtins
+*typing
+*psutil
+*matplotlib
