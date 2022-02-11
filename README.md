@@ -14,15 +14,16 @@
 ## Preview
 <br><br>
 <p align="center">
-  <img src="https://github.com/shervinbdndev/CPUStatusChart/blob/master/Preview/preview%403x.png" width="250" /> 
-  <img src="https://github.com/shervinbdndev/CPUStatusChart/blob/master/Preview/windows11.png" width="250" />
+  <img src="https://github.com/shervinbdndev/CPUStatusChart/blob/master/Preview/preview%403x.png" width="500" /> 
+  <br>
+  <img src="https://github.com/shervinbdndev/CPUStatusChart/blob/master/Preview/windows11.png" width="500" />
 </p>
 
 
 ## Packages And Libraries Used In Application Development
 <br><br>
-* python
-* builtins
-* typing
-* psutil
-* matplotlib
+* <strike>python</strike>
+* <strike>builtins</strike>
+* <strike>typing</strike>
+* <strike>psutil</strike>
+* <strike>matplotlib</strike>
