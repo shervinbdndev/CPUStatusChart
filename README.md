@@ -16,9 +16,9 @@
 <p align="center">
   <img src="https://github.com/shervinbdndev/CPUStatusChart/blob/master/Preview/preview%403x.png" width="930" /> 
   <br>
-  <p>Also You Can Run it on <b>Windows 11</b></p>
+  <p align="center">Also You Can Run it on <b>Windows 11</b></p>
   <br>
-  <img src="https://github.com/shervinbdndev/CPUStatusChart/blob/master/Preview/windows11.png" width="750" />
+  <img src="https://github.com/shervinbdndev/CPUStatusChart/blob/master/Preview/windows11.png" width="750" align="center" />
 </p>
 
 
